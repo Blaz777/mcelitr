@@ -1,0 +1,121 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+
+.div-logo
+{
+	display: inline-block;
+	background-color: black;
+	height: 100px;
+	width: 100%;
+	margin-top: -3px;
+	
+}
+
+.div-nav
+{
+	display: inline-block;
+	background-color: white;
+	height: 75px;
+	width: 100%;
+	margin-top: -3px;
+	
+}
+
+.ul-nav
+{
+	display:inline-block;
+	text-decoration: none;
+	margin: 15px;
+	font-size: 15px;
+	text-transform: uppercase;
+	font-family: 'Montserrat';
+	
+}
+
+
+p
+{
+	font-family: 'Montserrat';
+	font-size: 20px;
+	color: white;
+}
+
+.ul-text
+{
+	display:inline-block;
+	text-decoration: none;
+	font-size: 15px;
+	color:white;
+	text-transform: uppercase;
+	margin: 15px;
+	font-family: 'Montserrat';
+	
+}
+ .ul-text:hover
+{
+	display:inline-block;
+	text-decoration: none;
+	font-size: 15px;
+	color:red;
+	text-transform: uppercase;
+	margin: 15px;
+	font-family: 'Montserrat';
+	
+}
+
+button
+{
+	background-color: transparent;
+	font-size: 20px;
+	color:white;
+	padding: 10px;
+	border-width: 1px;
+	border-color: white;
+	border-radius: 15px;
+}
+
+button:hover
+{
+	background-color: white;
+	font-size: 20px;
+	color:black;
+	padding: 10px;
+	border-width: 1px;
+	border-color: black;
+	border-radius: 15px;
+}
+
+.div-prod
+{
+	display: inline-block;
+	height: 250px;
+	width:400px;
+	background-color: white;
+	margin-left: 150px;
+}
+
+h3
+{
+font-family: 'Montserrat';
+}
+
+.desc
+{
+	font-family: 'Montserrat';
+	font-size: 20px;
+	color: black;
+}
+
+.buy
+{
+	background-color: purple;
+	font-size: 20px;
+	color:white;
+	padding: 10px;
+	border-width: 1px;
+	border-color: white;
+	border-radius: 15px;
+}
